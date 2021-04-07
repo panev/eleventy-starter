@@ -105,3 +105,4 @@ dist
 
 # Eleventy builds
 _site
+.DS_Store
